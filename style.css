@@ -5,3 +5,7 @@ body {
 img {
     border: 2px dotted pink;
 }
+table {
+    text-align: left;
+    border: 1px dotted pink;
+}
